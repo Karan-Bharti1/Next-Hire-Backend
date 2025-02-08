@@ -30,6 +30,26 @@ app.post("/jobs",async(req,res)=>{
         res.status(500).json({error:"Error while uploading job post ",error})
     }
 })
+const readAllJobsData=async () => {
+    try {
+       const jobsData=await Jobs.find()   
+       return jobsData
+    } catch (error) {
+        throw error
+    }
+}
+app.get("/",async(req,res)=>{
+  try {
+    const jobsData=await readAllJobsData()
+    if(jobsData && jobsData.length>0){
+        res.status(200).json(jobsData)
+    }else{
+        res.status(404).json({error:"Jobs Data Not found"})
+    }
+  } catch (error) {
+    res.status(500).json({error:"Error while fetching data ",error})
+  }  
+})
 app.listen(PORT,()=>{
 console.log('App is running on PORT:',PORT)
 })
