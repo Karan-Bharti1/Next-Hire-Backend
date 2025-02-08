@@ -70,6 +70,26 @@ app.get("/jobs/:jobId",async (req,res) => {
         res.status(500).json({error:"Error while fetching data ",error})   
     }
 })
+const deleteJobDataById=async(jobId)=>{
+    try {
+       const jobData=await Jobs.findByIdAndDelete(jobId) 
+       return jobData
+    } catch (error) {
+        throw error
+    }
+    }
+    app.delete("/jobs/:jobId",async (req,res) => {
+        try {
+            const jobData=await deleteJobDataById(req.params.jobId)
+            if(jobData){
+                res.status(200).json({message:"Data deleted successfully"})
+            }else{
+                res.status(404).json({error:"Job Data Not found"})
+            }
+        } catch (error) {
+            res.status(500).json({error:"Error while deleting data ",error})   
+        }
+    })
 app.listen(PORT,()=>{
 console.log('App is running on PORT:',PORT)
 })
