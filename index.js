@@ -90,6 +90,7 @@ const deleteJobDataById=async(jobId)=>{
             res.status(500).json({error:"Error while deleting data ",error})   
         }
     })
+    
 app.listen(PORT,()=>{
 console.log('App is running on PORT:',PORT)
 })
