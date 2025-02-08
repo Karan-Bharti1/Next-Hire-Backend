@@ -18,13 +18,12 @@ type:{
     type:String,
     required:true
 },
-description:{
+description:[{
     type:String,
-    required:true
-},
+    
+}],
 qualifications:[{
     type:String,
-    required:true
 }]
 },{
     timestamps:true
