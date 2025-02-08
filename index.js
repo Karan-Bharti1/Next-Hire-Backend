@@ -50,6 +50,26 @@ app.get("/",async(req,res)=>{
     res.status(500).json({error:"Error while fetching data ",error})
   }  
 })
+const getDataById=async(jobId)=>{
+try {
+   const jobData=await Jobs.findById(jobId) 
+   return jobData
+} catch (error) {
+    throw error
+}
+}
+app.get("/jobs/:jobId",async (req,res) => {
+    try {
+        const jobData=await getDataById(req.params.jobId)
+        if(jobData){
+            res.status(200).json(jobData)
+        }else{
+            res.status(404).json({error:"Job Data Not found"})
+        }
+    } catch (error) {
+        res.status(500).json({error:"Error while fetching data ",error})   
+    }
+})
 app.listen(PORT,()=>{
 console.log('App is running on PORT:',PORT)
 })
