@@ -1,0 +1,137 @@
+[
+    {
+      "title": "UX/UI Designer",
+      "companyName": "TechCorp",
+      "location": "Bengaluru",
+      "salary": 890000,
+      "type": "Hybrid",
+      "description": ["Develop user-friendly UI/UX Designs", "Collaborate with cross-functional teams"],
+      "qualifications": ["Bachelor's degree in Computer Science or related fields", "3+ years of experience in related field"]
+    },
+    {
+      "title": "Software Engineer",
+      "companyName": "InnovaSoft",
+      "location": "Mumbai",
+      "salary": 1200000,
+      "type": "Remote",
+      "description": ["Develop and maintain web applications", "Optimize code for performance"],
+      "qualifications": ["Bachelor's degree in Computer Science", "2+ years of software development experience"]
+    },
+    {
+      "title": "Product Manager",
+      "companyName": "NextGen Solutions",
+      "location": "Delhi",
+      "salary": 1500000,
+      "type": "Hybrid",
+      "description": ["Lead product development lifecycle", "Work closely with stakeholders"],
+      "qualifications": ["MBA or equivalent experience", "5+ years in product management"]
+    },
+    {
+      "title": "Data Scientist",
+      "companyName": "AI Labs",
+      "location": "Hyderabad",
+      "salary": 1800000,
+      "type": "Onsite",
+      "description": ["Analyze large datasets", "Develop machine learning models"],
+      "qualifications": ["Master's degree in Data Science", "3+ years of experience"]
+    },
+    {
+      "title": "Backend Developer",
+      "companyName": "CloudTech",
+      "location": "Pune",
+      "salary": 1100000,
+      "type": "Remote",
+      "description": ["Build and maintain APIs", "Work with databases and microservices"],
+      "qualifications": ["Bachelor's in Computer Science", "3+ years of backend development experience"]
+    },
+    {
+      "title": "Marketing Specialist",
+      "companyName": "BrandBoost",
+      "location": "Chennai",
+      "salary": 900000,
+      "type": "Hybrid",
+      "description": ["Develop and execute marketing campaigns", "Analyze market trends"],
+      "qualifications": ["Bachelor's in Marketing", "2+ years of experience"]
+    },
+    {
+      "title": "Cybersecurity Analyst",
+      "companyName": "SecureNet",
+      "location": "Bengaluru",
+      "salary": 1400000,
+      "type": "Onsite",
+      "description": ["Monitor and respond to security threats", "Ensure compliance with security policies"],
+      "qualifications": ["Bachelor's in Cybersecurity", "4+ years of experience"]
+    },
+    {
+      "title": "Front-End Developer",
+      "companyName": "WebWorks",
+      "location": "Mumbai",
+      "salary": 1000000,
+      "type": "Remote",
+      "description": ["Develop user interfaces", "Ensure website responsiveness"],
+      "qualifications": ["Bachelor's in Computer Science", "2+ years of experience"]
+    },
+    {
+      "title": "DevOps Engineer",
+      "companyName": "CloudOps Inc.",
+      "location": "Hyderabad",
+      "salary": 1600000,
+      "type": "Hybrid",
+      "description": ["Automate infrastructure deployment", "Monitor system performance"],
+      "qualifications": ["Bachelor's in IT", "3+ years in DevOps"]
+    },
+    {
+      "title": "AI Engineer",
+      "companyName": "DeepMind AI",
+      "location": "Bengaluru",
+      "salary": 2000000,
+      "type": "Onsite",
+      "description": ["Develop AI models", "Optimize deep learning algorithms"],
+      "qualifications": ["Master's in AI", "4+ years of experience"]
+    },
+    {
+      "title": "Network Administrator",
+      "companyName": "NetSecure",
+      "location": "Chennai",
+      "salary": 1200000,
+      "type": "Hybrid",
+      "description": ["Manage network infrastructure", "Ensure security protocols"],
+      "qualifications": ["Bachelor's in IT", "3+ years in networking"]
+    },
+    {
+      "title": "Content Writer",
+      "companyName": "WriteItUp",
+      "location": "Delhi",
+      "salary": 800000,
+      "type": "Remote",
+      "description": ["Create engaging content", "SEO optimization"],
+      "qualifications": ["Bachelor's in English or Journalism", "2+ years of experience"]
+    },
+    {
+      "title": "Business Analyst",
+      "companyName": "Insight Corp",
+      "location": "Mumbai",
+      "salary": 1300000,
+      "type": "Hybrid",
+      "description": ["Analyze business processes", "Recommend improvements"],
+      "qualifications": ["MBA or relevant experience", "3+ years in business analysis"]
+    },
+    {
+      "title": "Cloud Architect",
+      "companyName": "SkyCloud",
+      "location": "Hyderabad",
+      "salary": 1800000,
+      "type": "Onsite",
+      "description": ["Design cloud solutions", "Manage cloud infrastructure"],
+      "qualifications": ["Bachelor's in Computer Science", "5+ years in cloud computing"]
+    },
+    {
+      "title": "HR Manager",
+      "companyName": "PeopleFirst",
+      "location": "Bengaluru",
+      "salary": 1100000,
+      "type": "Hybrid",
+      "description": ["Manage HR policies", "Employee engagement initiatives"],
+      "qualifications": ["MBA in HR", "4+ years of experience"]
+    }
+  ]
