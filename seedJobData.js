@@ -23,4 +23,4 @@ async function seedJobsData(){
         console.log("Error while seeding the data",error) 
     }
 }
-// seedJobsData()
+seedJobsData()

@@ -4,7 +4,7 @@
       "companyName": "TechCorp",
       "location": "Bengaluru",
       "salary": 890000,
-      "type": "Hybrid",
+      "type": "Full-time (On-site)",
       "description": ["Develop user-friendly UI/UX Designs", "Collaborate with cross-functional teams"],
       "qualifications": ["Bachelor's degree in Computer Science or related fields", "3+ years of experience in related field"]
     },
@@ -13,7 +13,7 @@
       "companyName": "InnovaSoft",
       "location": "Mumbai",
       "salary": 1200000,
-      "type": "Remote",
+      "type": "Full-time (Remote)",
       "description": ["Develop and maintain web applications", "Optimize code for performance"],
       "qualifications": ["Bachelor's degree in Computer Science", "2+ years of software development experience"]
     },
@@ -22,7 +22,7 @@
       "companyName": "NextGen Solutions",
       "location": "Delhi",
       "salary": 1500000,
-      "type": "Hybrid",
+      "type": "Full-time (On-site)",
       "description": ["Lead product development lifecycle", "Work closely with stakeholders"],
       "qualifications": ["MBA or equivalent experience", "5+ years in product management"]
     },
@@ -31,7 +31,7 @@
       "companyName": "AI Labs",
       "location": "Hyderabad",
       "salary": 1800000,
-      "type": "Onsite",
+      "type": "Full-time (On-site)",
       "description": ["Analyze large datasets", "Develop machine learning models"],
       "qualifications": ["Master's degree in Data Science", "3+ years of experience"]
     },
@@ -40,7 +40,7 @@
       "companyName": "CloudTech",
       "location": "Pune",
       "salary": 1100000,
-      "type": "Remote",
+      "type": "Full-time (Remote)",
       "description": ["Build and maintain APIs", "Work with databases and microservices"],
       "qualifications": ["Bachelor's in Computer Science", "3+ years of backend development experience"]
     },
@@ -49,7 +49,7 @@
       "companyName": "BrandBoost",
       "location": "Chennai",
       "salary": 900000,
-      "type": "Hybrid",
+      "type": "Full-time (On-site)",
       "description": ["Develop and execute marketing campaigns", "Analyze market trends"],
       "qualifications": ["Bachelor's in Marketing", "2+ years of experience"]
     },
@@ -58,7 +58,7 @@
       "companyName": "SecureNet",
       "location": "Bengaluru",
       "salary": 1400000,
-      "type": "Onsite",
+      "type": "Full-time (On-site)",
       "description": ["Monitor and respond to security threats", "Ensure compliance with security policies"],
       "qualifications": ["Bachelor's in Cybersecurity", "4+ years of experience"]
     },
@@ -67,7 +67,7 @@
       "companyName": "WebWorks",
       "location": "Mumbai",
       "salary": 1000000,
-      "type": "Remote",
+      "type": "Full-time (Remote)",
       "description": ["Develop user interfaces", "Ensure website responsiveness"],
       "qualifications": ["Bachelor's in Computer Science", "2+ years of experience"]
     },
@@ -76,7 +76,7 @@
       "companyName": "CloudOps Inc.",
       "location": "Hyderabad",
       "salary": 1600000,
-      "type": "Hybrid",
+      "type": "Full-time (On-site)",
       "description": ["Automate infrastructure deployment", "Monitor system performance"],
       "qualifications": ["Bachelor's in IT", "3+ years in DevOps"]
     },
@@ -85,7 +85,7 @@
       "companyName": "DeepMind AI",
       "location": "Bengaluru",
       "salary": 2000000,
-      "type": "Onsite",
+      "type": "Full-time (On-site)",
       "description": ["Develop AI models", "Optimize deep learning algorithms"],
       "qualifications": ["Master's in AI", "4+ years of experience"]
     },
@@ -94,7 +94,7 @@
       "companyName": "NetSecure",
       "location": "Chennai",
       "salary": 1200000,
-      "type": "Hybrid",
+      "type": "Full-time (On-site)",
       "description": ["Manage network infrastructure", "Ensure security protocols"],
       "qualifications": ["Bachelor's in IT", "3+ years in networking"]
     },
@@ -103,7 +103,7 @@
       "companyName": "WriteItUp",
       "location": "Delhi",
       "salary": 800000,
-      "type": "Remote",
+      "type": "Full-time (Remote)",
       "description": ["Create engaging content", "SEO optimization"],
       "qualifications": ["Bachelor's in English or Journalism", "2+ years of experience"]
     },
@@ -112,7 +112,7 @@
       "companyName": "Insight Corp",
       "location": "Mumbai",
       "salary": 1300000,
-      "type": "Hybrid",
+      "type": "Full-time (On-site)",
       "description": ["Analyze business processes", "Recommend improvements"],
       "qualifications": ["MBA or relevant experience", "3+ years in business analysis"]
     },
@@ -121,7 +121,7 @@
       "companyName": "SkyCloud",
       "location": "Hyderabad",
       "salary": 1800000,
-      "type": "Onsite",
+      "type": "Full-time (On-site)",
       "description": ["Design cloud solutions", "Manage cloud infrastructure"],
       "qualifications": ["Bachelor's in Computer Science", "5+ years in cloud computing"]
     },
@@ -130,8 +130,98 @@
       "companyName": "PeopleFirst",
       "location": "Bengaluru",
       "salary": 1100000,
-      "type": "Hybrid",
+      "type": "Full-time (On-site)",
       "description": ["Manage HR policies", "Employee engagement initiatives"],
       "qualifications": ["MBA in HR", "4+ years of experience"]
-    }
-  ]
+    },
+    {
+        "title": "Graphic Designer",
+        "companyName": "DesignHub",
+        "location": "Mumbai",
+        "salary": 450000,
+        "type": "Part-time (On-site)",
+        "description": ["Create visually appealing designs", "Work with the marketing team"],
+        "qualifications": ["Diploma or Bachelor's in Design", "2+ years of experience"]
+      },
+      {
+        "title": "IT Support Technician",
+        "companyName": "TechAssist",
+        "location": "Bengaluru",
+        "salary": 500000,
+        "type": "Part-time (On-site)",
+        "description": ["Troubleshoot IT issues", "Assist with hardware and software installations"],
+        "qualifications": ["Diploma in IT", "1+ year of experience"]
+      },
+      {
+        "title": "Event Coordinator",
+        "companyName": "Elite Events",
+        "location": "Delhi",
+        "salary": 550000,
+        "type": "Part-time (On-site)",
+        "description": ["Plan and execute events", "Coordinate with vendors and clients"],
+        "qualifications": ["Bachelor's in Event Management", "2+ years of experience"]
+      },
+      {
+        "title": "Fitness Trainer",
+        "companyName": "FitNation",
+        "location": "Pune",
+        "salary": 480000,
+        "type": "Part-time (On-site)",
+        "description": ["Conduct personal and group training sessions", "Guide clients on fitness programs"],
+        "qualifications": ["Certified Fitness Trainer", "1+ year of experience"]
+      },
+      {
+        "title": "Customer Service Representative",
+        "companyName": "ServicePro",
+        "location": "Chennai",
+        "salary": 470000,
+        "type": "Part-time (On-site)",
+        "description": ["Handle customer inquiries", "Resolve service issues efficiently"],
+        "qualifications": ["High school diploma", "1+ year of experience in customer service"]
+      },
+      {
+        "title": "Social Media Manager",
+        "companyName": "TrendSphere",
+        "location": "Hyderabad",
+        "salary": 600000,
+        "type": "Part-time (Remote)",
+        "description": ["Manage social media accounts", "Create engaging content"],
+        "qualifications": ["Bachelor's in Marketing or related field", "2+ years of experience"]
+      },
+      {
+        "title": "Online Tutor",
+        "companyName": "EduWorld",
+        "location": "Kolkata",
+        "salary": 500000,
+        "type": "Part-time (Remote)",
+        "description": ["Teach students in an online environment", "Prepare lesson plans"],
+        "qualifications": ["Bachelor's degree in relevant subject", "1+ year of tutoring experience"]
+      },
+      {
+        "title": "Content Editor",
+        "companyName": "WordSmiths",
+        "location": "Bengaluru",
+        "salary": 550000,
+        "type": "Part-time (Remote)",
+        "description": ["Proofread and edit content", "Ensure grammatical and factual accuracy"],
+        "qualifications": ["Bachelor's in English or Journalism", "2+ years of editing experience"]
+      },
+      {
+        "title": "E-commerce Support Specialist",
+        "companyName": "ShopEase",
+        "location": "Delhi",
+        "salary": 530000,
+        "type": "Part-time (Remote)",
+        "description": ["Assist customers with order-related queries", "Handle complaints and refunds"],
+        "qualifications": ["Diploma or Bachelor's degree", "1+ year of experience in e-commerce support"]
+      },
+      {
+        "title": "Voice-over Artist",
+        "companyName": "AudioWorks",
+        "location": "Chennai",
+        "salary": 620000,
+        "type": "Part-time (Remote)",
+        "description": ["Provide voice-over for videos and advertisements", "Modulate voice as per project needs"],
+        "qualifications": ["Experience in voice acting", "Clear and engaging voice"]
+      }
+]
