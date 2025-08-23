@@ -23,3 +23,6 @@ It supports CRUD operations: create, read, and delete job entries.
 - **CORS Middleware**
 
 ---
+
+## Frontend Link
+[Frontend Link](https://github.com/Karan-Bharti1/Next-Hire-Frontend)
